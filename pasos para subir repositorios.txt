@@ -1,0 +1,24 @@
+git init
+
+//fotografia
+git add .
+git commit -m "Primer commit"
+
+
+// En github crear repositorio
+//Luego ejecutar comandos:
+
+git remote add origin https://github.com/julioemc2/custom-hooks.git
+git branch -M main
+git push -u origin main
+
+**********************************************
+
+//Switch to a new branch:
+git checkout -b lazyload-nested-rrd6
+
+git add .
+git commit -m "Rutas anidadas listas"
+
+git push -u origin lazyload-nested-rrd6
+
