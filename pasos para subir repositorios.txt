@@ -22,3 +22,9 @@ git commit -m "Rutas anidadas listas"
 
 git push -u origin lazyload-nested-rrd6
 
+//Switch to another branch:
+git checkout lazyload-nested-rrd6
+
+git push --set-upstream origin lazyload-nested-rrd6
+
+
