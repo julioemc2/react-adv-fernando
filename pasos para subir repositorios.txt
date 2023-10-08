@@ -25,6 +25,7 @@ git push -u origin lazyload-nested-rrd6
 //Switch to another branch:
 git checkout lazyload-nested-rrd6
 
+// con seguimiento en la nube
 git push --set-upstream origin lazyload-nested-rrd6
 
 
