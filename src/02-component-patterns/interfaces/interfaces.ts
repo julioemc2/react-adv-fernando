@@ -30,3 +30,8 @@ export interface onChangeArgs {
     product: Product;
     count: number;
 }
+
+// no se deberia tener aqui
+export interface ProductInCart extends Product {
+    count: number
+}
