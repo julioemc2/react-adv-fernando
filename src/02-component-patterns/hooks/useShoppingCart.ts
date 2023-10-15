@@ -11,6 +11,7 @@ export const useShoppingCart = () => {
     const onProductCountChange = ({ count, product }: {count:number, product: Product }) => {
     //    console.log('onProductCountChange', count, product );
 
+    
         console.log({ count });
         
 

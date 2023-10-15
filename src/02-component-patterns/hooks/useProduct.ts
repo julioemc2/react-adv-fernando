@@ -9,6 +9,7 @@ interface useProductArgs {
     value?: number;
 }
 
+
 export const useProduct = ( { onChange, product, value = 0 }: useProductArgs ) => {
 
     //const [counter, setCounter] = useState(0)
